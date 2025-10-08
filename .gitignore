@@ -44,6 +44,8 @@ ipch/
 *.vspscc
 *.vssscc
 *.vshost.*
+*.vcxproj
+*.sln
 
 # Visual Studio folder
 .vs/
@@ -57,3 +59,4 @@ cmake_install.cmake
 Thumbs.db
 Desktop.ini
 .DS_Store
+
