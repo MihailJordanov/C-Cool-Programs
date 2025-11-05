@@ -16,6 +16,8 @@ Start: Goal:
 4 0 6 4 5 6
 7 5 8 7 8 0
 
+🔗 Try it online: [N-Puzzle Game](https://appzaza.com/slide-puzzle)
+
 ## ⚙️ Algorithm Overview
 
 ### 🔍 IDA* Search
