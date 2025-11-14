@@ -1,0 +1,14 @@
+UK12
+12
+Aberystwyth 0.190032E-03 -0.285946E-03
+Inverness 454.912 -923.051
+Nottingham 116.872 -320.612
+Glasgow 308.451 -837.412
+Edinburgh 314.201 -765.812
+London 230.451 -470.781
+Stratford 217.343 -447.089
+Exeter 90.782 -520.341
+Liverpool 140.621 -410.722
+Oxford 180.712 -430.431
+Brighton 260.332 -490.104
+Newcastle 350.121 -690.762

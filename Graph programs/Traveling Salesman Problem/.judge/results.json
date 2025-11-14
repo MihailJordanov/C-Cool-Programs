@@ -1,0 +1,30 @@
+[
+  {
+    "problem": "tsp",
+    "test": "t01",
+    "status": "RTE",
+    "time_ms": 24708,
+    "time_budget_ms": 10000,
+    "tier": "fast",
+    "correct": false,
+    "complete": false,
+    "optimal": null,
+    "note": "exit 3221226505 (runs: 0/1 OK)",
+    "time_alg_ms": null,
+    "time_cal_ms": 24683
+  },
+  {
+    "problem": "tsp",
+    "test": "t02",
+    "status": "WA",
+    "time_ms": 191,
+    "time_budget_ms": 10000,
+    "tier": "fast",
+    "correct": false,
+    "complete": false,
+    "optimal": null,
+    "note": "final distance is not a float (runs: 0/10 OK)",
+    "time_alg_ms": null,
+    "time_cal_ms": 166
+  }
+]

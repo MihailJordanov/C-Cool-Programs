@@ -1,0 +1,3 @@
+problem,test,status,time_ms,time_budget_ms,tier,correct,complete,optimal,time_alg_ms,time_cal_ms,note
+tsp,t01,RTE,24708,10000,fast,false,false,,,24683,exit 3221226505 (runs: 0/1 OK)
+tsp,t02,WA,191,10000,fast,false,false,,,166,final distance is not a float (runs: 0/10 OK)
