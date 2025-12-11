@@ -84,7 +84,7 @@ def min_conflicts(board, max_steps=50000):
 
         row = random.choice(conflicted_rows)
 
-        costs = [conflicts_for(board, row, col) for col in range(n)]
+        costs = [conflicts_for(board, row, col) for col in range(n)]    
 
         best_col = pick_best_col_random_tiebreak(costs)
 
